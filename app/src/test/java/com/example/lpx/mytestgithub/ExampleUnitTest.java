@@ -1,4 +1,4 @@
-package com.cax.rxjava;
+package com.example.lpx.mytestgithub;
 
 import org.junit.Test;
 
