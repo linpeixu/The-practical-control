@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         test();
         //测试文本
-        //测试合并后的分支内容
+        //测试合并后的分支内容h
     }
 
     @Override
