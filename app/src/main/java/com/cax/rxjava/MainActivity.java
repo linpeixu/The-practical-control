@@ -17,8 +17,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         test();
-        //测试文本
-       //测试合并后的分支内容h
+
 
 
     }
@@ -29,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void test() {
-
+//测试文本
+        //测试合并后的分支内容h
     }
 }
