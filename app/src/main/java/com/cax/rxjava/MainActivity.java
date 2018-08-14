@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void test() {
+        //额
         mTest = (TextView) findViewById(R.id.tv_test);
         mTest.setOnClickListener(new View.OnClickListener() {
             @Override
